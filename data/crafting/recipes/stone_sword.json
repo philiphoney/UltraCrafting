@@ -1,0 +1,37 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " S ",
+        " S ",
+        " W "
+    ],
+    "key": {
+        "W": {
+            "item": "minecraft:stick"
+        },
+        "S": [
+            {
+                "item": "minecraft:diorite"
+            },
+            {
+                "item": "minecraft:granite"
+            },
+            {
+                "item": "minecraft:end_stone"
+            },
+            {
+                "item": "minecraft:andesite"
+            },
+            {
+                "item": "minecraft:tuff"
+            },
+            {
+                "item": "minecraft:netherrack"
+            }
+        ]
+    },
+    "result": {
+        "item": "minecraft:stone_sword",
+        "count": 1
+    }
+}
