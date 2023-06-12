@@ -1,4 +1,4 @@
-# Better Vanilla Craft
+# Ultra Crafting
 
 ## Tools
 
